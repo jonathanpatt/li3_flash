@@ -22,7 +22,7 @@ namespace li3_flash\extensions\storage;
  * <?=$this->flash->output(); ?>
  * }}}
  */
-class Flash extends \lithium\core\StaticObject {
+class Flash extends \lithium\core\StaticObjectDeprecated {
 
 	/**
 	 * Class dependencies.
